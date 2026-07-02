@@ -46,7 +46,7 @@ Outside of the terminal, I am a part-time video editor and an active member of t
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%2306b6d4" width="28" align="top" /> Tech Stack
 
 ### AI, Machine Learning & Design
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="96">
       <kbd><img src="https://skillicons.dev/icons?i=ai" alt="AI" width="48" height="48" /></kbd>

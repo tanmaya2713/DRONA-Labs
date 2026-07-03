@@ -482,7 +482,7 @@ Building high-performance computational environments and technocrat-level develo
 ## <img src="https://api.iconify.design/lucide:git-commit-horizontal.svg?color=%2306b6d4" width="28" align="top" /> Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tanmaya2713/tanmaya2713/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/tanmaya2713/DRONA-Labs/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
